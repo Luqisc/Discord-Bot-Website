@@ -5,32 +5,32 @@ import { MdAddModerator } from "react-icons/md";
 import { SiProbot } from "react-icons/si";
 import { TbMessage2Code } from "react-icons/tb";
 const config = {
-  name: "ProBot",
+  name: "UpCaned",
   //BotName
   inviteLink:
-    "https://discord.com/oauth2/authorize?client_id=879602399067660338&permissions=8&scope=bot&redirect_uri=https://docs.markos.ga&response_type=code",
+    "https://discord.com/api/oauth2/authorize?client_id=1034573355061366825&permissions=8&scope=bot%20applications.commands",
   //BotInvite Link
   Features: [
     {
-      name: "Moderation",
+      name: "Moderacion",
       description:
         "Moderation is the process of eliminating or lessening extremes.",
       logo: <MdAddModerator className="h-10 w-10" />,
     },
     {
-      name: "99% Uptime",
+      name: "99% Status",
       description:
         "Uptime is a measure of system reliability, expressed as the percentage of time a machine, typically a computer.",
       logo: <SiProbot className="h-10 w-10" />,
     },
     {
-      name: "Automation",
+      name: "Automatizacion",
       description:
         "Automation describes a wide range of technologies that reduce  human intervention in processes.",
       logo: <TbMessage2Code className="h-10 w-10" />,
     },
     {
-      name: "Welcomer",
+      name: "Bienvenida",
       description:
         "Welcomer is the person who greet the new person in an unique and great way",
       logo: <CgCrown className="h-10 w-10" />,
