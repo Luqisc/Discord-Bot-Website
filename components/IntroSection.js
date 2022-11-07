@@ -12,7 +12,7 @@ const IntroSection = () => {
             </span>
           </h1>
           <h3 className="text-main text-3xl text-center  sm:text-start">
-            What else you need?
+            Que mas esperas?
           </h3>
           <div className="group">
             <div className="bg-main w-fit p-3 rounded-lg cursor-pointer group-hover:skew-x-6 easeIn">
