@@ -36,12 +36,12 @@ const config = {
       logo: <CgCrown className="h-10 w-10" />,
     },
     // You can added more features if need add
-  ]
+  ],
   //Bot Features
-  serverCount: 1, //-  - Your
-  memberCount: 2, //--   - Bot
-  executedCommand: 10, //--  - Stats
-  availableCommand: 130, //---   - Here
+  serverCount: 300, //-  - Your
+  memberCount: 700, //--   - Bot
+  executedCommand: 27000, //--  - Stats
+  availableCommand: 400, //---   - Here
   //Do not change if you don't know about them
   faceBookLogo: (
     <BsFacebook className="h-10 w-10 text-[#4267B2] hover:scale-125 easeIn cursor-pointer" />
