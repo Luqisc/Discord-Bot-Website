@@ -14,34 +14,34 @@ const config = {
     {
       name: "Moderacion",
       description:
-        "Moderation is the process of eliminating or lessening extremes.",
+        "La moderación es el proceso de eliminar o disminuir los extremos.",
       logo: <MdAddModerator className="h-10 w-10" />,
     },
     {
       name: "99% Status",
       description:
-        "Uptime is a measure of system reliability, expressed as the percentage of time a machine, typically a computer.",
+        "El tiempo de actividad es una medida de la confiabilidad del sistema, expresada como el porcentaje de tiempo que una máquina, generalmente una computadora.",
       logo: <SiProbot className="h-10 w-10" />,
     },
     {
       name: "Automatizacion",
       description:
-        "Automation describes a wide range of technologies that reduce  human intervention in processes.",
+        "La automatización describe una amplia gama de tecnologías que reducen la intervención humana en los procesos.",
       logo: <TbMessage2Code className="h-10 w-10" />,
     },
     {
       name: "Bienvenida",
       description:
-        "Welcomer is the person who greet the new person in an unique and great way",
+        "Es la persona que saluda a la nueva persona de una manera única y excelente.",
       logo: <CgCrown className="h-10 w-10" />,
     },
     // You can added more features if need add
   ],
   //Bot Features
-  serverCount: 300, //-  - Your
-  memberCount: 700, //--   - Bot
-  executedCommand: 27000, //--  - Stats
-  availableCommand: 400, //---   - Here
+  serverCount: 5, //-  - Your
+  memberCount: -, //--   - Bot
+  executedCommand: -, //--  - Stats
+  availableCommand: 130, //---   - Here
   //Do not change if you don't know about them
   faceBookLogo: (
     <BsFacebook className="h-10 w-10 text-[#4267B2] hover:scale-125 easeIn cursor-pointer" />
@@ -54,12 +54,12 @@ const config = {
   ),
   //----------------------------------------------------------------
   // Your social handle links
-  githubLink: "https://github.com/mohitmimani",
+  githubLink: "https://github.com/Luqisc/Discord-Bot-Website",
   twitterLink: "https://twitter.com",
   mediumLink: "https://medium.com/",
   facebookLink: "https://facebook.com",
   discordLink: "https://discord.com",
-  youtubeLink: "https://www.youtube.com/channel/UCfhRHeex9lU0ZAVJot6Z2ZQ",
+  youtubeLink: "https://www.youtube.com/channel/,
 };
 
 export default config;
