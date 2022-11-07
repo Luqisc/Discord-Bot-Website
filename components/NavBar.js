@@ -34,13 +34,13 @@ const NavBar = () => {
           <div className="text-gray-200 gap-x-10 text-base md:text-lg lg:text-3xl xl:text-4xl font-medium hidden sm:flex">
             <a href="#stats">
               <h3 className="hover:cursor-pointer  easeIn group">
-                Statistics
+                Estadísticas
                 <hr className="translate-x-full opacity-0 group-hover:opacity-100 easeIn group-hover:translate-x-0 mt-2 border-[1px] rounded-sm border-main bg-main" />
               </h3>
             </a>
             <a href="#features">
               <h3 className="hover:cursor-pointer group">
-                Features
+               Características
                 <hr className="translate-x-full opacity-0 group-hover:opacity-100 easeIn group-hover:translate-x-0 mt-2 border-[1px] rounded-sm border-main bg-main" />
               </h3>
             </a>
@@ -65,13 +65,13 @@ const NavBar = () => {
           <div className="text-gray-200  min-w-[10rem] mb-1  text-base md:text-lg lg:text-2xl xl:text-3xl font-medium flex flex-col sm:hidden">
             <a href="#stats">
               <h3 className="hover:cursor-pointer  easeIn group w-fit">
-                Statistics
+                Estadisticas
                 <hr className="translate-x-full opacity-0 group-hover:opacity-100 easeIn group-hover:translate-x-0 mt-2 border-[1px] rounded-sm border-main bg-main" />
               </h3>
             </a>
             <a href="#features">
               <h3 className="hover:cursor-pointer group w-fit">
-                Features
+                Caracteristicas
                 <hr className="translate-x-full opacity-0 group-hover:opacity-100 easeIn group-hover:translate-x-0 mt-2 border-[1px] rounded-sm border-main bg-main" />
               </h3>
             </a>
