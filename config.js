@@ -39,8 +39,8 @@ const config = {
   ]
   //Bot Features
   serverCount: 1, //-  - Your
-  memberCount: -, //--   - Bot
-  executedCommand: -, //--  - Stats
+  memberCount: 2, //--   - Bot
+  executedCommand: 10, //--  - Stats
   availableCommand: 130, //---   - Here
   //Do not change if you don't know about them
   faceBookLogo: (
