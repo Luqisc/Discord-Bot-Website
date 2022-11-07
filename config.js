@@ -36,9 +36,9 @@ const config = {
       logo: <CgCrown className="h-10 w-10" />,
     },
     // You can added more features if need add
-  ],
+  ]
   //Bot Features
-  serverCount: 5, //-  - Your
+  serverCount: 1, //-  - Your
   memberCount: -, //--   - Bot
   executedCommand: -, //--  - Stats
   availableCommand: 130, //---   - Here
