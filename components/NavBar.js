@@ -49,7 +49,7 @@ const NavBar = () => {
             <div className="text-main border-2 border-gray-100 p-1 sm:p-2 xl:p-3 rounded-lg group-hover:border-main group-hover:-skew-x-6 easeIn">
               <a target="_blank" href={config.inviteLink} rel="noreferrer">
                 <h2 className="text-base md:text-lg lg:text-3xl xl:text-4xl">
-                  Invite me
+                  Invitame
                 </h2>
               </a>
             </div>
