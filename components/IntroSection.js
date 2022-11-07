@@ -17,7 +17,7 @@ const IntroSection = () => {
           <div className="group">
             <div className="bg-main w-fit p-3 rounded-lg cursor-pointer group-hover:skew-x-6 easeIn">
               <a target="_blank" href={config.inviteLink} rel="noreferrer">
-                <span className="text-2xl text-dark">Add to discord</span>
+                <span className="text-2xl text-dark">Añadir a discord</span>
               </a>
             </div>
           </div>
