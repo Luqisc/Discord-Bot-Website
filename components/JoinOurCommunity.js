@@ -49,12 +49,12 @@ const JoinOurCommunity = () => {
         <div className="flex flex-col text-6xl gap-3 text-main  font-bold">
           <div className="inline-flex">
             <div>
-              <h3 className="text-white">Join Our</h3>
+              <h3 className="text-white">Unete y se parte</h3>
               <hr className="border-8 border-main bg-main ml-2 relative -top-4 -z-50 opacity-75" />
             </div>
           </div>
           <h4 className="text-5xl ml-3 text-transparent bg-clip-text bg-gradient-to-br from-white to-main">
-            Community Now
+            Estadisticas
           </h4>
         </div>
         <div className="flex flex-col sm:flex-row  justify-between gap-4">
@@ -62,19 +62,19 @@ const JoinOurCommunity = () => {
             <div className="grid mt-10 grid-cols-1 sm:grid-cols-2 gap-4   rounded-xl ">
               <div className="text-dark bg-main p-3 rounded-lg max-w-[18rem] min-w-[100%]">
                 <h3 className="text-2xl opacity-80 easeIn">{data[0]}</h3>
-                <h2 className="text-3xl">Total server</h2>
+                <h2 className="text-3xl">Server Totales</h2>
               </div>
               <div className="text-dark bg-main p-3 rounded-lg max-w-[18rem] min-w-[100%]">
                 <h3 className="text-2xl opacity-80">{data[1]}</h3>
-                <h2 className="text-3xl">Member Count</h2>
+                <h2 className="text-3xl">Total de Miembros</h2>
               </div>
               <div className="text-dark bg-main p-3 rounded-lg max-w-[18rem] min-w-[100%]">
                 <h3 className="text-2xl opacity-80">{data[2]}</h3>
-                <h2 className="text-3xl">Executed command</h2>
+                <h2 className="text-3xl">Comandos ejecutados</h2>
               </div>
               <div className="text-dark bg-main p-3 rounded-lg max-w-[18rem] min-w-[100%]">
                 <h3 className="text-2xl opacity-80">{data[3]}</h3>
-                <h2 className="text-3xl">Available command</h2>
+                <h2 className="text-3xl">Comandos disponibles</h2>
               </div>
             </div>
           </div>
