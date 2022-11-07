@@ -5,7 +5,7 @@ const WhySection = () => {
     <section id="features" className="mt-20 min-h-[100vh] ">
       <div className="flex justify-between flex-col lg:items-start items-center lg:flex-row gap-3">
         <h2 className="text-5xl xl:text-6xl flex flex-row lg:flex-col xl:flex-row gap-3 font-bold text-zinc-300">
-          Why{" "}
+          Porque{" "}
           <div className="inline-flex">
             <div className="text-white">
               <h2>{config.name}</h2>
