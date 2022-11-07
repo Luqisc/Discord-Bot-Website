@@ -6,7 +6,7 @@ const IntroSection = () => {
       <div className="flex mt-0 sm:mt-20 gap-20 justify-between ">
         <div className="flex flex-col  justify-center gap-y-10 w-screen items-center sm:items-start">
           <h1 className="text-5xl sm:text-7xl text-main font-bold text-center sm:text-start">
-            This is{" "}
+            Esto es{" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-br from-sky-600 to-main">
               {config.name}
             </span>
